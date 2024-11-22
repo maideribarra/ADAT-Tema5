@@ -65,4 +65,8 @@ public class Casa {
     public ArrayList<Huesped> getHuespeds(){
         return this.arrHuesped;
     }
+
+    public void setHuespeds(ArrayList<Huesped> arrHuesped){
+        this.arrHuesped=arrHuesped;
+    }
 }
