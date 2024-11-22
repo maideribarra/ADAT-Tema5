@@ -1,0 +1,51 @@
+direccion_casa,numero_habitaciones,numero_personas,ciudad,codigo_postal,nombre_persona,edad_persona,email_persona
+303 Elm St,2.0,3.0,Philadelphia,19019,Dave Brown,39.0,dave.b@example.com
+404 Fir St,3.0,6.0,New York,10001,Carol White,34.0,carol.w@example.com
+404 Fir St,3.0,6.0,New York,10001,Eve Davis,,eve.d@example.com
+789 Pine St,4.0,8.0,San Jose,95101,Hank Wilson,19.0,hank.w@example.com
+606 Willow St,1.0,2.0,Phoenix,85001,Bob Smith,62.0,bob.s@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Hank Wilson,56.0,hank.w@example.com
+404 Fir St,3.0,6.0,New York,10001,Jack Thomas,28.0,jack.t@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Grace Taylor,66.0,grace.t@example.com
+505 Palm St,4.0,9.0,Houston,77001,Frank Moore,52.0,frank.m@example.com
+456 Oak St,2.0,4.0,Phoenix,85001,Ivy Anderson,,ivy.a@example.com
+123 Maple St,3.0,,Dallas,75201,Hank Wilson,26.0,hank.w@example.com
+303 Elm St,2.0,3.0,Philadelphia,19019,Frank Moore,30.0,frank.m@example.com
+789 Pine St,4.0,8.0,San Jose,95101,Ivy Anderson,50.0,ivy.a@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Jack Thomas,25.0,jack.t@example.com
+303 Elm St,2.0,3.0,Philadelphia,19019,Hank Wilson,44.0,hank.w@example.com
+123 Maple St,3.0,6.0,Dallas,75201,Jack Thomas,52.0,jack.t@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Grace Taylor,53.0,grace.t@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Alice Johnson,,alice.j@example.com
+123 Maple St,3.0,,Dallas,75201,Grace Taylor,28.0,grace.t@example.com
+789 Pine St,4.0,8.0,San Jose,95101,Eve Davis,55.0,eve.d@example.com
+101 Birch St,1.0,2.0,San Antonio,78201,Bob Smith,65.0,bob.s@example.com
+606 Willow St,1.0,2.0,Phoenix,85001,Frank Moore,,frank.m@example.com
+202 Cedar St,,10.0,Los Angeles,90001,Carol White,55.0,carol.w@example.com
+505 Palm St,4.0,9.0,Houston,77001,Ivy Anderson,46.0,ivy.a@example.com
+123 Maple St,3.0,6.0,Dallas,75201,Eve Davis,18.0,eve.d@example.com
+123 Maple St,3.0,6.0,Dallas,75201,Frank Moore,35.0,frank.m@example.com
+303 Elm St,2.0,3.0,Philadelphia,19019,Eve Davis,61.0,eve.d@example.com
+303 Elm St,2.0,3.0,Philadelphia,19019,Ivy Anderson,25.0,ivy.a@example.com
+456 Oak St,,4.0,Phoenix,85001,Eve Davis,30.0,eve.d@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Dave Brown,,dave.b@example.com
+404 Fir St,3.0,6.0,New York,10001,Carol White,,carol.w@example.com
+303 Elm St,2.0,3.0,Philadelphia,19019,Alice Johnson,49.0,alice.j@example.com
+456 Oak St,2.0,4.0,Phoenix,85001,Alice Johnson,58.0,alice.j@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Jack Thomas,47.0,jack.t@example.com
+456 Oak St,2.0,4.0,Phoenix,85001,Ivy Anderson,,ivy.a@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Jack Thomas,39.0,jack.t@example.com
+505 Palm St,4.0,9.0,Houston,77001,Eve Davis,58.0,eve.d@example.com
+404 Fir St,,6.0,Phoenix,New York,10001,33.0,carol.w@example.com
+789 Pine St,4.0,8.0,San Jose,95101,Hank Wilson,47.0,hank.w@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Ivy Anderson,27.0,ivy.a@example.com
+123 Maple St,,6.0,Dallas,75201,,22.0,eve.d@example.com
+789 Pine St,,8.0,San Jose,95101,Dave Brown,45.0,dave.b@example.com
+101 Birch St,1.0,2.0,San Antonio,78201,Carol White,51.0,carol.w@example.com
+707 Spruce St,2.0,4.0,Los Angeles,90001,Hank Wilson,56.0,hank.w@example.com
+789 Pine St,,8.0,San Jose,95101,Alice Johnson,39.0,alice.j@example.com
+606 Willow St,1.0,2.0,Phoenix,85001,Ivy Anderson,38.0,ivy.a@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Grace Taylor,50.0,grace.t@example.com
+404 Fir St,3.0,6.0,New York,10001,Frank Moore,56.0,frank.m@example.com
+202 Cedar St,5.0,10.0,Los Angeles,90001,Grace Taylor,53.0,grace.t@example.com
+101 Birch St,1.0,2.0,San Antonio,78201,Hank Wilson,40.0,hank.w@example.com
